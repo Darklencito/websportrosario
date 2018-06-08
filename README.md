@@ -1,4 +1,6 @@
-|| SportRosario ||
+# Archivos de Lineamitento
 
-Comming Son
+-- Muy pronto primer proyecto --
+
+
 
